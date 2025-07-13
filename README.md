@@ -39,28 +39,6 @@ git clone https://github.com/MBAHSINGO22/ML_FUNCTION.git
 cd ML_FUNCTION
 ```
 
-### 2. Pastikan Python Terinstal:
-
-Periksa versi Python:
-
-```bash
-python --version
-```
-
-Jika belum terinstal, unduh dari [python.org](https://www.python.org/).
-
-### 3. Jalankan Skrip:
-
-```bash
-python <nama_skrip>.py
-```
-
-Contoh:
-
-```bash
-python Function1.py
-```
-
 ---
 
 ## 🟢 Catatan
