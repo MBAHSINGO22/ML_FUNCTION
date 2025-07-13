@@ -12,8 +12,6 @@
 - 🧮 Perhitungan statistik (median)  
 - ⚙️ Penggunaan fungsi untuk modularitas kode
 
-Proyek ini terdiri dari dua skrip Python sederhana, ideal untuk pemula yang ingin memahami penerapan fungsi dalam pemrograman. 🟢
-
 ---
 
 ## 🧠 Teknologi
