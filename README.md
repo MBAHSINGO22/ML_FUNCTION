@@ -1,5 +1,4 @@
-# 📝 ML_FUNCTION
-
+<h1 justify>📝 ML_FUNCTION </h1>
 **Latihan Pemrograman Python dengan Fungsi**  
 ---
 
