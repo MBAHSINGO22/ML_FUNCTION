@@ -1,8 +1,6 @@
 # 📝 ML_FUNCTION
 
 **Latihan Pemrograman Python dengan Fungsi**  
-Eksplorasi fungsi untuk manipulasi string dan perhitungan statistik
-
 ---
 
 ## 📖 Deskripsi Proyek
